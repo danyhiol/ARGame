@@ -1,0 +1,11 @@
+{
+  "name": "outseum",
+  "displayName": "outseum",
+  "android.config.googleMaps.apiKey": "AIzaSyBvmShLE_JAePJjAbXe8uIrBI3xNBhRw4w",
+  "expo": {
+    "name": "outseum",
+    "icon": "./app/assets/logo.png",
+    "description": "An outdoor museum app with AR.",
+    "sdkVersion": "23.0.0"
+  }
+}
