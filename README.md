@@ -1,6 +1,6 @@
-# Viro Starter Kit
+# AR-Game project 
 
-This is a blank React Native project setup with Viro.
+This project is build using React Native setup with Viro.
 
 ## Installation
 
@@ -11,12 +11,6 @@ This is a blank React Native project setup with Viro.
 5. `npx react-native run-android` or `npx react-native run-ios`
 
 NOTE: The variant arguments are not needed for debug or release.
-
-## How to Install Viro in an existing project?
-
-First, you have to install the latest version of viro, for now, we will install it from the repo instead of a npm package.
-
-`npm install --save git+https://github.com/virocommunity/viro`
 
 ### Linking (iOS)
 
@@ -109,6 +103,3 @@ Be sure to follow [these instructions](https://docs.viromedia.com/docs/integrati
   </application>
 </manifest>
 ```
-
-# Need help?
-[Reach us in Discord.](https://discord.gg/YfxDBGTxvG)
